@@ -1,0 +1,12 @@
+a3 68
+a1 54
+b1 87
+b2 141
+b3 195
+c3 249
+a2 43
+c2 23
+c1 24
+
+The sum of all cell values is:884
+
